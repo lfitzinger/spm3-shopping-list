@@ -1,3 +1,6 @@
 lebkuchen
 orangen
 zimt
+aepfel
+birnen
+nuesse
